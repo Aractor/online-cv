@@ -24,7 +24,7 @@ sidebar:
     bitbucket:
     twitter: '@aractor' # include @username
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
+    codewars:
     goodreads: aractor
     pdf: 
 
@@ -32,20 +32,14 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Live streaming
         link:
 
-      - item: Snowboarding
+      - item: Whiskey
         link:
 
-      - item: Cooking
+      - item: Video games
         link:
 
 career-profile:
