@@ -13,20 +13,20 @@ sidebar:
 
     # Sidebar links
     email: whiteb23@gmail.com
-    phone: +1 ‪(503) 482-8495‬
+    phone: +1.503.482.8495‬
     citizenship:
-    #website: blog.webjeda.com #do not add http://
-    linkedin: 
-    #xing: alandoe
-    #github: sharu725
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
+    website: #do not add http://
+    linkedin: bwhite23
+    xing: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
     twitter: '@aractor' # include @username
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: 32942309-benjamin-white # Number-Username, e.g. 123456-alandoe
+    pdf: 
 
     languages:
       - idiom: English
